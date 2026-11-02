@@ -1,6 +1,6 @@
 # Guitar & Live Performance Portfolio
 
-A responsive, static one-page portfolio for GitHub Pages. The six supplied MP4 performance clips are included under `assets/performances/` and play with native browser controls on desktop and mobile.
+A responsive, static one-page portfolio for GitHub Pages. Five MP4 performance clips are included under `assets/performances/` and play with native browser controls on desktop and mobile.
 
 ## Hosting
 
