@@ -3,4 +3,5 @@
 /* Product photography for the specified model; keep its black finish clear against the charcoal hero. */
 .guitar{width:min(42vw,520px);height:min(570px,78vh);max-width:none;right:-2%;top:50%;transform:translateY(-50%);object-fit:contain;background:#d5d3cd;border:1px solid #aaa8a1;border-radius:3px;box-shadow:0 24px 55px #0009;filter:none}
 .hero-stamp{width:auto;height:auto;min-width:104px;padding:14px 12px;border-radius:50px;background:#111e;border-color:#777a;color:#e5e4df;text-align:center;letter-spacing:.09em;text-shadow:0 1px 3px #000;top:12%;right:1%;}
-@media(max-width:760px){.guitar{width:min(88vw,390px);height:min(420px,54vh);max-width:none;right:-2%;top:51%;transform:translateY(-50%)}.hero-stamp{top:21%;right:5%;min-width:94px;padding:11px 9px;font-size:7px}}
+@media(max-width:760px){.guitar{width:min(88vw,390px);height:min(420px,54vh);max-width:none;right:-2%;top:51%;transform:translateY(-50%);object-fit:cover;object-position:center 68%;background:#171717}.hero-stamp{top:21%;right:5%;min-width:94px;padding:11px 9px;font-size:7px}}
+.guitar{object-fit:cover;object-position:center 65%;background:#171717;border:1px solid #777}
